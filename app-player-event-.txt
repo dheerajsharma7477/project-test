@@ -1,1 +1,1 @@
-app-player-event-detail
+app-player-event-details
