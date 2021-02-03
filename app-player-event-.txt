@@ -1,1 +1,1 @@
-app-player-event-details
+app-player-event-details dheeraj
